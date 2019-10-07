@@ -278,6 +278,8 @@ services-info-img{
     .act-img{
         margin-top: 40px;
         margin-bottom: 40px;
+        padding-left: 30px;
+        padding-right: 30px;
        
     }
 
@@ -287,6 +289,8 @@ services-info-img{
 @media(max-width:500px) {
     .prod{
         margin-bottom: 40px;
+        padding-left: 30px;
+        padding-right: 30px
        
     }
 
@@ -296,6 +300,8 @@ services-info-img{
 @media(max-width:500px) {
     .vision{
         margin-bottom: 30px;
+        padding-left: 30px;
+        padding-right: 30px;
        
     }
 
@@ -305,6 +311,28 @@ services-info-img{
 @media(max-width:500px) {
     .contact{
         margin-top: 30px;
+        padding-left: 30px;
+        padding-right: 30px;
+       
+    }
+
+}
+
+@media(max-width:500px) {
+    .about{
+
+        padding-left: 30px;
+        padding-right: 30px;
+       
+    }
+
+}
+
+@media(max-width:500px) {
+    .middle-img{
+
+        padding-left: 35px;
+        
        
     }
 
