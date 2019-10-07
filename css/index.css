@@ -250,4 +250,22 @@ services-info-img{
 
 }
 
+@media(max-width:500px) {
+    .first-section{
+        margin: 0 auto;
+        justify-content: center;
+        margin-top: 100px;
+        margin-bottom: 100px;
+    }
+
+}
+
+@media(max-width:500px) {
+    nav a{
+        border-bottom: 1px solid black;
+    }
+
+}
+
+
 
